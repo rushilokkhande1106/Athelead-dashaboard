@@ -1,5 +1,8 @@
 # Athelead-dashaboard
-Hi,, we learn about OlympicS athelatics total details with mocrosoft power BI dashboard
-In this dashboards we will discuss about how many medals win by each country or atheleads 
-comparision by country to country and sport 
-how many gold medal, siver,and bronze medals each country have.
+Hey, We learn about Olympics athelatics total details with using of  mocrosoft power BI dashboard
+In this dashboards we will create  Olympic medals.
+How many medals win by each country
+How many medals win by an  atheleads.
+Comparision by country to country and 
+Year to year.
+Detail sportwise medals.
